@@ -20,7 +20,7 @@
 
 параметры
 |name|type|required|note|
-|--|--|--|
+|--|--|--|--|
 |job_id|String|*||
 
 пример:
