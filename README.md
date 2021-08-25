@@ -1,7 +1,7 @@
-# job_api (json)
+## Create job
 
 
-## POST /api/v1/job 
+### POST /api/v1/job 
 
 |name|type|required|note|
 |--|--|--|--|
@@ -16,7 +16,9 @@
   "body": "kid tool set"
 }
 
-## GET /api/v1/job/reviews
+## Get reviews job
+
+### GET /api/v1/job/reviews
 
 параметры
 |name|type|required|note|
