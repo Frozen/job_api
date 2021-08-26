@@ -31,3 +31,16 @@
 
 /api/v1/job/reviews?job_id=15f0034b-abd3-4155-9b33-9bc9e00b88fe
 
+
+
+
+## GET /api/v1/job
+#### задачи
+|name|type|required|note|
+|--|--|--|--|
+|client_id|String|||
+|completed|bool|||
+|limit|usize|||
+|offset|usize|||
+
+
